@@ -1,8 +1,11 @@
 # Linux Mail Server Project (Postfix)
 
 **Author:** Lindsey Udeh
+
 **Date:** October 2025
+
 **Platform:** Ubuntu Server 24.04 LTS (on VirtualBox)
+
 **Type:** Home Lab / Practical System Administration Project
 
 ---
